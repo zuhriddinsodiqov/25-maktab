@@ -78,8 +78,8 @@
 }
 .header .banner   .video-ing iframe{
   width:  874px;
-  height: 492px;;
+  height: 80vh;
   display: block;
   margin: 0 auto;
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
